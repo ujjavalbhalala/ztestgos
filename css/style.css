@@ -1,1 +1,15 @@
-/* Enter your custom styles here */
+.TestInput {
+    color: green;
+    font-family: Arial;
+    font-size: 14px;
+    background-color: #f0ab00;
+    width: 300px;
+    height: 70px;
+}
+.Testfooterdata {
+  font-family: Arial,Helvetica,sans-serif;
+    font-size: 1.5rem;
+    color: #f0ab00 !important;
+    font-style: italic;
+    margin: 0 10px !important;
+}
