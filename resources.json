@@ -1,0 +1,48 @@
+{
+    "resources": [
+        {
+            "name": "view/Picture.view.xml"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "thirdparty/openui5/camera/CameraRenderer.js"
+        },
+        {
+            "name": "thirdparty/openui5/camera/library-preload.js"
+        },
+        {
+            "name": "thirdparty/openui5/camera/Camera.js"
+        },
+        {
+            "name": "thirdparty/openui5/camera/library.js"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "controller/Picture.controller.js"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
